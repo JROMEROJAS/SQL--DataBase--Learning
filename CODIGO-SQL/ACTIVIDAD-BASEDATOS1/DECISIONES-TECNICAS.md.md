@@ -145,6 +145,6 @@ SELECT * FROM Estudiante;
 ```sql
 -- VALIDAR LA INTEGRADAD
 -- INSERTARE PRESTAMO CON ESTUDIANTE INEXISTENTE 
-INSERT INTO Prestamos (fecha_prestamo, id_matricula, id_libro) --Aqui lo que hago es insertar datos errores para ver si me los detecta correcto(seria que esta mal) o erroreos (seria lo correcto).
+INSERT INTO Prestamos (fecha_prestamo, id_matricula, id_libro) --Aqui lo que hago es insertar datos erroneos para ver si me los detecta correcto(seria que esta mal) o erroneos (seria lo correcto).
 VALUES ('2025-10-10', 10, 1);
 ```
