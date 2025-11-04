@@ -5,11 +5,6 @@ La idea es tener un espacio de onsulta y repaso de los principales comandos usad
 
 -----
 
-## 📂 Estructura del Repositorio 
-proximamente....
-
------
-
 ## 🎯 Objetivos
 - Aprender y practicar cada parte del lenguaje SQL.
 - Crear una base solida para futuros proyectos con **Spring Boot y bases de datos**.
